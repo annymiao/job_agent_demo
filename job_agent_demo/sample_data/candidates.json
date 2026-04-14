@@ -1,0 +1,99 @@
+[
+  {
+    "id": "candidate_anya",
+    "name": "Anya Mercer",
+    "headline": "Applied ML researcher building production-facing decision systems",
+    "summary": "Anya combines quantitative research, machine learning, and systems thinking. Her strongest work sits at the boundary between rigorous modeling and shipping usable tools.",
+    "location_preferences": ["London", "Remote"],
+    "salary_floor_gbp": 70000,
+    "experience_years": 5,
+    "target_roles": [
+      "Machine Learning Engineer",
+      "Applied Scientist",
+      "Research Engineer"
+    ],
+    "core_skills": [
+      "Python",
+      "PyTorch",
+      "NLP",
+      "Graph modeling",
+      "Experiment design",
+      "SQL",
+      "Data analysis"
+    ],
+    "differentiators": [
+      "Turns research ideas into decision-ready tooling",
+      "Comfortable with ambiguous technical problem framing",
+      "Strong at extracting measurable signals from messy systems"
+    ],
+    "projects": [
+      {
+        "name": "Cross-Chain Network Optimizer",
+        "summary": "Designed graph-theoretic models to optimize communication paths across distributed ledger networks.",
+        "outcome": "Identified bridge allocation patterns that reduced expected latency under constrained resources.",
+        "skills": ["Graph modeling", "Simulation", "Python", "Optimization"]
+      },
+      {
+        "name": "APAL-FinBERT",
+        "summary": "Built a parameter-efficient adaptation layer for multi-task financial NLP on top of a frozen FinBERT backbone.",
+        "outcome": "Improved multi-task performance while updating only a small fraction of model parameters.",
+        "skills": ["NLP", "Transformers", "PyTorch", "Multi-task learning"]
+      },
+      {
+        "name": "AI Companion Concept",
+        "summary": "Coordinated an early AI product concept blending user research, machine learning ideas, and cross-disciplinary delivery.",
+        "outcome": "Turned exploratory ideas into a scoped product concept with clear technical and design constraints.",
+        "skills": ["Product framing", "User research", "Applied AI", "Cross-functional collaboration"]
+      }
+    ]
+  },
+  {
+    "id": "candidate_omar",
+    "name": "Omar Vale",
+    "headline": "ML platform engineer focused on deployment velocity and observability",
+    "summary": "Omar works best on roles where machine learning meets infrastructure. He has a bias for production quality, tooling, and measurable platform improvements.",
+    "location_preferences": ["Remote", "Amsterdam"],
+    "salary_floor_gbp": 85000,
+    "experience_years": 7,
+    "target_roles": [
+      "ML Platform Engineer",
+      "Senior Machine Learning Engineer",
+      "AI Infrastructure Engineer"
+    ],
+    "core_skills": [
+      "Python",
+      "Kubernetes",
+      "MLOps",
+      "Model monitoring",
+      "CI/CD",
+      "AWS",
+      "Feature stores"
+    ],
+    "differentiators": [
+      "Builds platform primitives that help teams ship models faster",
+      "Strong on production reliability and developer experience",
+      "Comfortable turning rough ML workflows into repeatable systems"
+    ],
+    "projects": [
+      {
+        "name": "Model Release Rail",
+        "summary": "Created an internal path from experiment to deployment with tests, approvals, and rollback hooks.",
+        "outcome": "Reduced deployment lead time from days to hours for multiple ML teams.",
+        "skills": ["MLOps", "CI/CD", "Python", "AWS"]
+      },
+      {
+        "name": "Real-time Drift Watch",
+        "summary": "Implemented production monitoring for model drift, data quality, and alerting.",
+        "outcome": "Improved issue detection speed and cut manual monitoring effort.",
+        "skills": ["Model monitoring", "Observability", "Dashboards", "Python"]
+      },
+      {
+        "name": "Feature Layer Toolkit",
+        "summary": "Built a lightweight feature serving layer to make online inference more consistent.",
+        "outcome": "Improved reuse across fraud, ranking, and recommendation workflows.",
+        "skills": ["Feature stores", "Inference", "Platform engineering", "SQL"]
+      }
+    ]
+  }
+]
+

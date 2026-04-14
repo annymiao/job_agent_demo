@@ -1,0 +1,115 @@
+[
+  {
+    "id": "job_nova",
+    "company": "Nova Ledger",
+    "title": "Applied Machine Learning Engineer",
+    "location": "London, UK",
+    "remote_policy": "Hybrid",
+    "salary_max_gbp": 92000,
+    "seniority": "Senior",
+    "summary": "Join a small applied AI team building production decision systems for complex financial infrastructure workflows.",
+    "business_context": "The team is translating research-heavy ideas into operational tools used by analysts and product partners.",
+    "must_have": [
+      "Python",
+      "PyTorch",
+      "NLP or transformer experience",
+      "Experiment design",
+      "Ability to turn research into production-facing tools"
+    ],
+    "nice_to_have": [
+      "Financial domain experience",
+      "Graph modeling",
+      "User-facing product intuition"
+    ],
+    "responsibilities": [
+      "Prototype applied ML workflows",
+      "Partner with product and research",
+      "Translate ambiguous requirements into technical plans"
+    ]
+  },
+  {
+    "id": "job_orbit",
+    "company": "Orbit Signals",
+    "title": "ML Platform Engineer",
+    "location": "Remote - Europe",
+    "remote_policy": "Remote",
+    "salary_max_gbp": 98000,
+    "seniority": "Senior",
+    "summary": "Build the internal tooling and deployment path for model teams across ranking, forecasting, and retrieval products.",
+    "business_context": "The company needs stronger release quality, observability, and repeatability across a growing ML stack.",
+    "must_have": [
+      "Python",
+      "MLOps",
+      "CI/CD",
+      "Model monitoring",
+      "Production systems mindset"
+    ],
+    "nice_to_have": [
+      "Kubernetes",
+      "AWS",
+      "Feature stores"
+    ],
+    "responsibilities": [
+      "Improve deployment velocity",
+      "Standardize model release workflows",
+      "Own observability and incident learning loops"
+    ]
+  },
+  {
+    "id": "job_verve",
+    "company": "Verve Research",
+    "title": "Research Engineer, Applied NLP",
+    "location": "Cambridge, UK",
+    "remote_policy": "Onsite",
+    "salary_max_gbp": 76000,
+    "seniority": "Mid",
+    "summary": "Support a compact research group shipping evaluation-heavy NLP systems and custom model adaptation workflows.",
+    "business_context": "The group values technical depth, paper literacy, and the ability to operationalize experiments without losing rigor.",
+    "must_have": [
+      "PyTorch",
+      "NLP or transformer experience",
+      "Experiment design",
+      "Research communication",
+      "Strong Python"
+    ],
+    "nice_to_have": [
+      "Parameter-efficient fine-tuning",
+      "Evaluation harnesses",
+      "Academic publication experience"
+    ],
+    "responsibilities": [
+      "Run model experiments",
+      "Evaluate adaptation strategies",
+      "Communicate findings to technical stakeholders"
+    ]
+  },
+  {
+    "id": "job_lattice",
+    "company": "Lattice Metrics",
+    "title": "Senior Data Scientist, Risk Systems",
+    "location": "London, UK",
+    "remote_policy": "Hybrid",
+    "salary_max_gbp": 88000,
+    "seniority": "Senior",
+    "summary": "Own risk decision models, experimental readouts, and stakeholder communication for a regulated analytics product.",
+    "business_context": "This role sits closer to business decisioning than pure platform work and rewards candidates who can make tradeoffs legible.",
+    "must_have": [
+      "Python",
+      "SQL",
+      "Experiment design",
+      "Stakeholder communication",
+      "Decision systems thinking"
+    ],
+    "nice_to_have": [
+      "Financial domain experience",
+      "Model governance",
+      "A/B testing"
+    ],
+    "responsibilities": [
+      "Build risk models",
+      "Explain model decisions to non-technical partners",
+      "Prioritize between quality, speed, and operational constraints"
+    ]
+  }
+]
+

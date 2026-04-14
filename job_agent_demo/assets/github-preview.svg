@@ -1,0 +1,122 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="72" x2="1084" y2="714" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09111C"/>
+      <stop offset="0.55" stop-color="#0E1A2B"/>
+      <stop offset="1" stop-color="#131F2F"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(218 146) rotate(28.7) scale(286 216)">
+      <stop stop-color="#D8A856" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#D8A856" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 612) rotate(-18.1) scale(380 240)">
+      <stop stop-color="#6E88A5" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#6E88A5" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="172" y1="0" x2="1034" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B17B36"/>
+      <stop offset="0.45" stop-color="#E0B975"/>
+      <stop offset="1" stop-color="#F2D39B"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B7833B"/>
+      <stop offset="1" stop-color="#F0CD94"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#04070D" flood-opacity="0.34"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="760" rx="32" fill="url(#bg)"/>
+  <rect width="1200" height="760" rx="32" fill="url(#glowA)"/>
+  <rect width="1200" height="760" rx="32" fill="url(#glowB)"/>
+
+  <g opacity="0.52">
+    <path d="M74 80H1126" stroke="url(#accent)" stroke-opacity="0.18"/>
+    <path d="M74 680H1126" stroke="url(#accent)" stroke-opacity="0.18"/>
+  </g>
+
+  <g>
+    <text x="88" y="98" fill="#CFA86A" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="4.5">PUBLIC DEMO SURFACE</text>
+    <text x="88" y="172" fill="#F8F2E6" font-family="Georgia, Times New Roman, serif" font-size="76" font-weight="700">job agent demo</text>
+    <text x="90" y="220" fill="#C4D0DD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="23">
+      A GitHub-safe showcase for role fit, opportunity prioritization,
+    </text>
+    <text x="90" y="252" fill="#C4D0DD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="23">
+      and interview prep without exposing the private orchestration layer.
+    </text>
+  </g>
+
+  <g>
+    <text x="90" y="330" fill="#8FA4BA" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="3.8">WHAT IT SHOWS</text>
+    <text x="90" y="372" fill="#F4EDDE" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="20">Fit judgment</text>
+    <text x="90" y="406" fill="#F4EDDE" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="20">Shortlist sequencing</text>
+    <text x="90" y="440" fill="#F4EDDE" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="20">Interview preparation</text>
+
+    <text x="90" y="528" fill="#8FA4BA" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="3.8">WHAT IT HIDES</text>
+    <text x="90" y="570" fill="#D4DDEA" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="20">Scraping, autofill, prompts, orchestration</text>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <rect x="560" y="118" width="552" height="516" rx="28" fill="#FFFFFF" fill-opacity="0.02"/>
+    <rect x="560" y="118" width="552" height="516" rx="28" fill="#0E1725" fill-opacity="0.74" stroke="#E0B975" stroke-opacity="0.16"/>
+
+    <g opacity="0.92">
+      <rect x="596" y="154" width="150" height="30" rx="15" fill="#152234"/>
+      <rect x="758" y="154" width="170" height="30" rx="15" fill="#152234"/>
+      <rect x="940" y="154" width="132" height="30" rx="15" fill="#152234"/>
+      <text x="626" y="174" fill="#F2E8D8" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Fit Snapshot</text>
+      <text x="793" y="174" fill="#96A8BD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Offer Comparison</text>
+      <text x="966" y="174" fill="#96A8BD" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="13">Interview Prep</text>
+    </g>
+
+    <g>
+      <text x="602" y="238" fill="#CFA86A" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3.2">FIT SIGNAL</text>
+      <text x="602" y="302" fill="#F8F1E5" font-family="Georgia, Times New Roman, serif" font-size="54" font-weight="700">88 / 100</text>
+      <text x="830" y="298" fill="#EBC67C" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="20">Strong fit</text>
+      <rect x="602" y="324" width="440" height="10" rx="5" fill="#172333"/>
+      <rect x="602" y="324" width="388" height="10" rx="5" fill="url(#bar)"/>
+    </g>
+
+    <g>
+      <text x="602" y="388" fill="#9FB0C4" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="3.2">COMPONENTS</text>
+
+      <text x="602" y="430" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Skills</text>
+      <text x="1034" y="430" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" text-anchor="end">77</text>
+      <rect x="602" y="442" width="180" height="6" rx="3" fill="#172333"/>
+      <rect x="602" y="442" width="139" height="6" rx="3" fill="url(#bar)"/>
+
+      <text x="830" y="430" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Experience</text>
+      <text x="1034" y="430" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" text-anchor="end">80</text>
+      <rect x="830" y="442" width="180" height="6" rx="3" fill="#172333"/>
+      <rect x="830" y="442" width="144" height="6" rx="3" fill="url(#bar)"/>
+
+      <text x="602" y="494" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Location</text>
+      <text x="1034" y="494" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" text-anchor="end">100</text>
+      <rect x="602" y="506" width="180" height="6" rx="3" fill="#172333"/>
+      <rect x="602" y="506" width="180" height="6" rx="3" fill="url(#bar)"/>
+
+      <text x="830" y="494" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Focus</text>
+      <text x="1034" y="494" fill="#F2EADC" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" text-anchor="end">100</text>
+      <rect x="830" y="506" width="180" height="6" rx="3" fill="#172333"/>
+      <rect x="830" y="506" width="180" height="6" rx="3" fill="url(#bar)"/>
+    </g>
+
+    <g>
+      <line x1="602" y1="560" x2="1042" y2="560" stroke="#213246"/>
+      <text x="602" y="596" fill="#E9E0D0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Strong matches</text>
+      <text x="828" y="596" fill="#E9E0D0" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18">Primary risk</text>
+
+      <circle cx="606" cy="624" r="3" fill="#D2A55D"/>
+      <text x="620" y="629" fill="#C7D4E2" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Python, PyTorch, experiment design</text>
+
+      <circle cx="832" cy="624" r="3" fill="#D2A55D"/>
+      <text x="846" y="629" fill="#C7D4E2" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="15">Needs clearer production-tool story</text>
+    </g>
+  </g>
+
+  <g opacity="0.84">
+    <path d="M104 664C208 624 308 602 404 598" stroke="url(#accent)" stroke-opacity="0.35" stroke-width="2"/>
+    <circle cx="404" cy="598" r="4" fill="#E0B975"/>
+  </g>
+</svg>
