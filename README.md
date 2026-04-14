@@ -1,10 +1,6 @@
 # job_agent_demo
 
 <p align="center">
-  <img src="./assets/github-preview.svg" alt="job_agent_demo preview" width="1100">
-</p>
-
-<p align="center">
   <strong>A GitHub-safe showcase for a private job-search assistant.</strong><br>
   It demonstrates decision quality, not the hidden orchestration layer behind the full system.
 </p>
